@@ -263,10 +263,8 @@ especially for those unable to vist traditional zoo's
         </div>
         <div class="credit">&copy; 2022 zoolife.All rights reserved by <a href="#" class="link">ninjashub</a></div>
     </section>
-
-
-</body>
-</html>
     <script src="script.js"></script>
 </body>
 </html>
+
+
